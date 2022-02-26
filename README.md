@@ -5,7 +5,7 @@ Simple sunset and sunrise time calculation python library.
 
 Using pip:
 
-    pip3 install suntime
+    pip3 install -i https://test.pypi.org/simple/ suntime-yasirroni==1.2.5.2
     
 Or download and type:
 
